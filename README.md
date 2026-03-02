@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/jcaf-dev/jcaf-dev/main/public/devdotto-dark.png" width="32" height="32" alt="Website"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/tu-perfil" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/jcaf-es/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/jcaf-dev/jcaf-dev/main/public/linkedin-dark.png" width="32" height="32" alt="LinkedIn"/>
     </a>
   </p>
