@@ -63,7 +63,9 @@
   <td width="50%" valign="top" align="left" style="padding-left: 20px;">
 
   <h3 align="center">📫 Contacto</h3>
-  <hr width="80%">
+  <div align="center">
+    <hr width="80%">
+  </div>
   <p align="center">
     📍 <strong>Madrid, España</strong><br>
     ✉️ <a href="mailto:juancarlos@jcaf.es"><strong>juancarlos@jcaf.es</strong></a><br>
@@ -73,7 +75,9 @@
   <br>
 
   <h3 align="center">🚀 Sobre mí</h3>
-  <hr width="70%">
+  <div align="center">
+    <hr width="80%">
+  </div>
   <p>
     Desarrollador de software con experiencia en <strong>backend, automatización e integración de sistemas</strong>.
     Especializado en el ecosistema <strong>Oracle (APEX/ORDS, PL/SQL)</strong> y <strong>Java</strong>.
@@ -98,7 +102,6 @@
   </td>
   </tr>
 </table>
-<hr>
 <p align="center">
   <sub>✨ <em>"El auténtico conocimiento es conocer la extensión de la propia ignorancia"</em> ✨</sub>
   <br>
